@@ -1,0 +1,37 @@
+
+h1,
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.styledForm {
+  color: rgb(122, 33, 33);
+  background-color: antiquewhite;
+}
+
+.btn {
+  border-radius: 8px;
+  background-color: #e8d8c4;
+  padding: 10px 15px;
+  border: none;
+}
+
+.greenRes{
+  background-color: green;
+  color:aliceblue;
+}
+
+.yellowRes{
+  background-color: yellow ;
+  color:aliceblue;
+}
+
+.redRes{
+  background-color: red;
+  color:aliceblue;
+}
+
+.blueRes{
+  background-color: blue;
+  color:aliceblue;
+}
